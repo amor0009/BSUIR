@@ -17,21 +17,6 @@
 > Master efficient file manipulation in shell and ***mc***.<br>
 > Develop a ***dirwalk*** program that scans the file system and outputs information to ***stdout*** information according to the program options.<br>
 > The output format is similar to that of the ***find*** utility.<br>
-> ```
-> dirwalk [dir] [options]
-> ```
-> - `dir` -- initial directory. If omitted, current (./).<br>
-> - `options`<br>
-> - `-l` -- only symbolic links (***-type l***)<br>
-> - `-d` -- directories only (***-type d***)<br>
-> - `-f` -- files only (***-type f***)<br>
-> - `-s` -- sort output according to ***LC_COLLATE***<br>
->
-> Options can be specified either before a directory or after.<br>
-> The options can be specified either separately or together (***-l -d, -ld***).<br>
-> If the ***ldf*** options are omitted, directories, files, and links are output.<br>
->
-> It is recommended to use `getopt(3)` or `gengetopt(1)` to handle options.<br>
 
 **[CODE](https://github.com/amor0009/BSUIR/tree/3fa8c4b5ae3a46e997718c1d8dc82dae1607303a/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/lab1)**
 
