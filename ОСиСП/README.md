@@ -3,7 +3,7 @@
 ## **[Course project](https://github.com/amor0009/BSUIR/tree/3fa8c4b5ae3a46e997718c1d8dc82dae1607303a/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/course_work)**
 
 ## Labs:
-1. **[lab 1](https://github.com/amor0009/BSUIR/tree/3fa8c4b5ae3a46e997718c1d8dc82dae1607303a/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/lab1)**
+1. **[lab 1](https://github.com/amor0009/BSUIR/tree/57ac5dc76c1676c7827a4d0bdf89ca9bbd311d3d/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/lab1)**
 2. **[lab 2](https://github.com/amor0009/BSUIR/tree/3fa8c4b5ae3a46e997718c1d8dc82dae1607303a/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/lab2)**
 3. **[lab 3](https://github.com/amor0009/BSUIR/tree/3fa8c4b5ae3a46e997718c1d8dc82dae1607303a/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/lab3)**
 4. **[lab 4](https://github.com/amor0009/BSUIR/tree/3fa8c4b5ae3a46e997718c1d8dc82dae1607303a/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/lab4)**
