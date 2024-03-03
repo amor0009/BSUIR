@@ -9,7 +9,7 @@
 4. **[lab 4](https://github.com/amor0009/BSUIR/tree/fed5da45ff8282d7fded7cf133140f4cb6da3058/osisp/lab4)**
 5. **[lab 5](https://github.com/amor0009/BSUIR/tree/e015a7b9355f48277509498485ff70b2b6d955b1/osisp/lab5)**
 6. **[lab 6](https://github.com/amor0009/BSUIR/tree/3393b70818cda26873bd2a31084ae4a806fe269a/osisp/lab6)**
-7. **[lab 7](https://github.com/amor0009/BSUIR/tree/3fa8c4b5ae3a46e997718c1d8dc82dae1607303a/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/lab7)**
+7. **[lab 7](https://github.com/amor0009/BSUIR/tree/30f3dc62073ac00874dffc2223580b59a880a686/osisp/lab7)**
 8. **[lab 8](https://github.com/amor0009/BSUIR/tree/3fa8c4b5ae3a46e997718c1d8dc82dae1607303a/%D0%9E%D0%A1%D0%B8%D0%A1%D0%9F/lab8)**
 
 ## lab 1. Introduction to Linux/Unix and the programming environment. POSIX-compatible file system
