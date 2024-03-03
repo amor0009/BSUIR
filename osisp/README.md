@@ -4,7 +4,7 @@
 ## **[Course project](https://github.com/amor0009/BSUIR/tree/7d17177f60ff5895d47f0e94e8238ae2c17f9e01/osisp/LUKYANOV_OSISP_prj_2024)**
 
 ## Labs:
-1. **[lab 1](https://github.com/amor0009/BSUIR/tree/a3ad6d168a1c8641ce3282e6011548127d715bbc/osisp/lab1)**
+1. **[lab 1](https://github.com/amor0009/BSUIR/tree/875d08bee90b3312f2bd7be3ccf78046acaaf4ea/osisp/lab1)**
 2. **[lab 2](https://github.com/amor0009/BSUIR/tree/b287b24cc9fac4a58cabbac2769aa0cf473a07de/osisp/lab2)**
 3. **[lab 3](https://github.com/amor0009/BSUIR/tree/20f0615638f9ad7a288fdffb4d7785e65e18fdd8/osisp/lab3)**
 4. **[lab 4](https://github.com/amor0009/BSUIR/tree/fed5da45ff8282d7fded7cf133140f4cb6da3058/osisp/lab4)**
