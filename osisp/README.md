@@ -1,6 +1,6 @@
 # Operating Systems and System Programming
 
-## **[Course project](https://github.com/amor0009/BSUIR/tree/2a3a7017dfc71d88d84775382c6a4ce619350b59/osisp/LUKYANOV_OSISP_prj_2024)**
+## **[Course project](https://github.com/amor0009/BSUIR/tree/53cd122ed41eb0322bc432f54de78939a8d75b47/osisp/LUKYANOV_OSISP_prj_2024)**
 
 ## Labs:
 1. **[lab 1](https://github.com/amor0009/BSUIR/tree/a3ad6d168a1c8641ce3282e6011548127d715bbc/osisp/lab1)**
