@@ -5,7 +5,7 @@
 
 ## Labs:
 1. **[lab 1](https://github.com/amor0009/BSUIR/tree/70fa6f430d6993fd203f68396e783a7584a09df9/osisp/lab1)**
-2. **[lab 2](https://github.com/amor0009/BSUIR/tree/d50c58324eef93c337169665f62d1b34ef4cf2bb/osisp/lab2)**
+2. **[lab 2](https://github.com/amor0009/BSUIR/tree/30aca0464b5d440d068270a10aec4f16a8d6c50d/osisp/lab2)**
 3. **[lab 3](https://github.com/amor0009/BSUIR/tree/20f0615638f9ad7a288fdffb4d7785e65e18fdd8/osisp/lab3)**
 4. **[lab 4](https://github.com/amor0009/BSUIR/tree/fed5da45ff8282d7fded7cf133140f4cb6da3058/osisp/lab4)**
 5. **[lab 5](https://github.com/amor0009/BSUIR/tree/e015a7b9355f48277509498485ff70b2b6d955b1/osisp/lab5)**
