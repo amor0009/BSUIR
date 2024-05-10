@@ -35,9 +35,13 @@ void process_input(const char input[256]) {
                         i++;
                         j++;
                     }
+
                     if (buffer[0] != '\0') {
                         buffer[0] = '-';
                         strcpy(current_field, buffer);
+                        if (strcmp(buffer, "-size")) {
+                            size_flag = 1;
+                        }
                         braces_flag = 0;
                         token[0] = 0;
                         memset(buffer, '\0', 128);
