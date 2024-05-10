@@ -70,8 +70,21 @@ static void render_about_window() {
     wbkgd(box_win, COLOR_PAIR(3));
     wbkgd(description_win, COLOR_PAIR(3));
     box(box_win, 0, 0);
-    mvwprintw(description_win, 0, 3 * scr_size.max_x / 8 - strlen(PROGRAM_NAME) / 2, PROGRAM_NAME);
+    mvwprintw(description_win, 0, 15, PROGRAM_NAME);
     mvwaddstr(description_win, 2, 0, DESCRIPTION);
+    mvwaddstr(description_win, 4, 15, DESCRIPTION1);
+    mvwaddstr(description_win, 6, 0, DESCRIPTION2);
+    mvwaddstr(description_win, 8, 0, DESCRIPTION3);
+    mvwaddstr(description_win, 12, 15, DESCRIPTION4);
+    mvwaddstr(description_win, 14, 0, DESCRIPTION5);
+    mvwaddstr(description_win, 16, 0, DESCRIPTION6);
+    mvwaddstr(description_win, 18, 0, DESCRIPTION7);
+    mvwaddstr(description_win, 20, 0, DESCRIPTION8);
+    mvwaddstr(description_win, 22, 0, DESCRIPTION9);
+    mvwaddstr(description_win, 24, 0, DESCRIPTION10);
+    mvwaddstr(description_win, 26, 0, DESCRIPTION11);
+    mvwaddstr(description_win, 28, 0, DESCRIPTION12);
+    mvwaddstr(description_win, 30, 0, DESCRIPTION13);
     wrefresh(box_win);
     wrefresh(description_win);
 

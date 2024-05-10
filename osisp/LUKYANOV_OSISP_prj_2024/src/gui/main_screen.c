@@ -140,7 +140,6 @@ static void on_resize_handler() {
         cleanup();
     }
     refresher_handler();
-    //prev = scr_size;
 }
 static void on_key_down_handler() {
     if (current_pos < total_lines - 1)current_pos++;
@@ -222,7 +221,6 @@ static void render_main_window() {
     wbkgd(box_win, COLOR_PAIR(3));
     getmaxyx(main_pad, current_box_size.max_y, current_box_size.max_x);
     if ((scr_size.max_y != current_box_size.max_y) || (scr_size.max_x != current_box_size.max_x)) {
-        // wclear(box_win);
         wresize(main_pad, VISIBLE_MAX, scr_size.max_x);
     }
 
