@@ -1,7 +1,5 @@
 #include "executor.h"
 
-control_struct control_word;
-
 char preferences[PARAM_QUANTITY][PATH_MAX];
 bool checkbox[CHECKBOXES_QUANTITY];
 

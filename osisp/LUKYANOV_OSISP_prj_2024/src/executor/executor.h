@@ -66,15 +66,6 @@ static const char *const tokens[] = {
 #define PARAM_QUANTITY PARAMETERS_END-1
 #define CHECKBOXES_QUANTITY CHECKBOXES_END
 
-typedef struct parametr {
-    PARAMETR flag;
-    char *expr;
-}parametr;
-
-typedef struct control_struct {
-    parametr options[PARAM_QUANTITY];
-}control_struct;
-
 //Записать параметры в файл
 void write_settings();
 
